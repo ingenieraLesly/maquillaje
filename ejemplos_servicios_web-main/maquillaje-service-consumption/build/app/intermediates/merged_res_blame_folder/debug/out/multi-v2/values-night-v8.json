@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Documentos\\MisionTIC\\c4\\poroyecto\\maquillaje\\ejemplos_servicios_web-main\\maquillaje-service-consumption\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Documentos\\MisionTIC\\c4\\poroyecto\\maquillaje\\ejemplos_servicios_web-main\\maquillaje-service-consumption\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,815",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "464,979"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,352",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "347,516"
+                    }
+                }
+            ]
+        }
+    ]
+}

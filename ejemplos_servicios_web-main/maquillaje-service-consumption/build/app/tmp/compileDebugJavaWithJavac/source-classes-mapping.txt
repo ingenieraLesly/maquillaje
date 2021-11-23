@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/misiontic_template/BuildConfig.java
+ com.example.misiontic_template.BuildConfig
